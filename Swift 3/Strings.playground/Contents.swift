@@ -16,13 +16,13 @@ var age=27
 
 var yourage = "\(name) age is \(age) "
 
-//append
+//append any دمج 
 msg.append(name)
 
  msg.capitalized
 msg.lowercased()
 msg.uppercased()
-msg.contains("Swift3")
+msg.contains("Swift3") // ابحث عن كلمة داخل الاقواس هل موجودة ام لا
 
 var em=""
 em.isEmpty
